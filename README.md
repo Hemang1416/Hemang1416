@@ -1,4 +1,4 @@
-![MasterHead](https://drmcet.ac.in/wp-content/uploads/2022/06/com-engineering.jpg)
+![MasterHead](https://i.gifer.com/origin/dc/dc412623146610157eb73e727f4d16bc_w200.webp)
 <h1 align="center">Hi 👋, I'm Hemang Sharma</h1>
 <h3 align="center">I'm a B-Tech[CSE] 2nd year student</h3>
 
